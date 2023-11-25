@@ -1,4 +1,4 @@
-.data #Τμήμα δεδομένων του προγράμματος
+.data #Τμήμα δήλωσης δεδομένων του προγράμματος
 ar: .word 0, 0, 0 
 mes1: .asciiz "Onoma: Eleftherios Chondromatidis\n" #αλφαρηθμητικό που ονόμασα mes1
 mes2: .asciiz "AM: 02874\n" #αλφαρηθμητικό που ονόμασα mes2
